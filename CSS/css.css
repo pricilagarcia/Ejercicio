@@ -366,11 +366,3 @@ text-align: right;
 padding-right: 100px;
     
 }
-    
-.pe_cajaImg:hover{
-left: 20px;
-bottom: 30px;
-transform:scaleX(20px);
-
-transition: 4s;   
-}
